@@ -1,6 +1,7 @@
 <b>Penetration_testing</b></br>
 
 <b>1.PORT SCANNER</b></br>
+<b> usage: python3 scanner.py <ip adress of router> </b></br>
 Port Number ---
 			Description<br/>
 1			TCP Port Service Multiplexer (TCPMUX)<br/>
